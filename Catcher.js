@@ -87,4 +87,4 @@ client.on('message', message => {
 client.on("disconnect", function(event){
     console.log(`The Program has closed and will no longer attempt to reconnect`);
 });
-client.login('Your-token');
+client.login('Green®#3129');
